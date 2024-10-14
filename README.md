@@ -25,4 +25,4 @@ Sou um jovem de 19 anos, cursando Análise e Desenvolvimento de Sistemas, e apai
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias969&show_icons=true)
