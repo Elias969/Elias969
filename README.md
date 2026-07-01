@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Elias!
 
-Sou um jovem de 20 anos, cursando Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia. Sou um Dev Full stack, Gosto de desafios e sou uma pessoa dedicada, sempre disposta a aprender e contribuir com o que for preciso.
+Sou um jovem de 21 anos, cursando Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia. Sou um Dev Full stack, Gosto de desafios e sou uma pessoa dedicada, sempre disposta a aprender e contribuir com o que for preciso.
 🔭 Um projeto interessante é a aplicação web que desenvolvi de gerenciamento escolar
 
 💬 contato: eliasasd321@gmail.com 
